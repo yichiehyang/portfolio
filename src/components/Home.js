@@ -46,7 +46,7 @@ function Home() {
             <div className="slider scrollspy" id="home">
                 <ul className="slides">
                     <li>
-                        <img src="../Banner.JPG" alt="Background image of Irene"></img>
+                        <img src="../Banner.jpg" alt="Background image of Irene"></img>
                         <div className="caption left-align grey-text text-lighten-5">
                             <h3>Welcome and Enjoy!</h3>
                             <h5>Check out my portfolio</h5>
